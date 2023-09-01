@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\bin\Debug\BilliardBall.exe.config
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\bin\Debug\BilliardBall.exe
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\bin\Debug\BilliardBall.pdb
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.Form1.resources
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.Properties.Resources.resources
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.exe
+C:\Users\0319be\Downloads\BilliardBall\BilliardBall\obj\Debug\BilliardBall.pdb
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\bin\Debug\BilliardBall.exe.config
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\bin\Debug\BilliardBall.exe
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\bin\Debug\BilliardBall.pdb
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csproj.AssemblyReference.cache
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csproj.SuggestedBindingRedirects.cache
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.Form1.resources
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.Properties.Resources.resources
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csproj.GenerateResource.cache
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.csproj.CoreCompileInputs.cache
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.exe
+D:\Sem 7\Simulation\BilliardBall\BilliardBall\obj\Debug\BilliardBall.pdb
